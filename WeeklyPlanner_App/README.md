@@ -15,4 +15,4 @@ A simple Java desktop app to create a weekly plan in Markdown format.
 1. Compile the app:
    ```bash
    javac -d bin src/com/Wubitcode/weeklyplanner/*.java
-![alt text](<Screenshot 2025-08-15 at 4.38.50 PM.png>)
+![Weekly Planner Screenshot](weekly_planner_screenshot.png)
